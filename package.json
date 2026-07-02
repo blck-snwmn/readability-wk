@@ -16,7 +16,7 @@
 		"@cloudflare/vitest-pool-workers": "0.16.20",
 		"typescript": "5.9.3",
 		"vitest": "4.1.9",
-		"wrangler": "4.98.0"
+		"wrangler": "4.105.0"
 	},
 	"dependencies": {
 		"@mozilla/readability": "^0.6.0",
