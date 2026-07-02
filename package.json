@@ -7,12 +7,14 @@
 		"dev": "wrangler dev",
 		"start": "wrangler dev",
 		"test": "vitest",
+		"typecheck": "tsc --noEmit",
+		"build": "wrangler deploy --dry-run",
 		"cf-typegen": "wrangler types"
 	},
 	"devDependencies": {
 		"@cloudflare/vitest-pool-workers": "0.16.13",
 		"typescript": "5.9.3",
-		"vitest": "3.2.4",
+		"vitest": "4.1.0",
 		"wrangler": "4.98.0"
 	},
 	"dependencies": {
