@@ -9,13 +9,13 @@ importers:
   .:
     dependencies:
       '@mozilla/readability':
-        specifier: ^0.6.0
+        specifier: 0.6.0
         version: 0.6.0
       linkedom:
-        specifier: ^0.18.12
+        specifier: 0.18.13
         version: 0.18.13
       node-html-markdown:
-        specifier: ^2.0.0
+        specifier: 2.0.0
         version: 2.0.0
     devDependencies:
       '@cloudflare/vitest-pool-workers':
