@@ -31,8 +31,8 @@ importers:
         specifier: 4.1.10
         version: 4.1.10(@types/node@26.2.0)(vite@7.2.4(@types/node@26.2.0))
       wrangler:
-        specifier: 4.122.0
-        version: 4.122.0
+        specifier: 4.123.0
+        version: 4.123.0
 
 packages:
 
