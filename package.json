@@ -20,7 +20,7 @@
 		"@types/node": "26.5.0",
 		"typescript": "7.0.2",
 		"vitest": "4.1.11",
-		"wrangler": "4.129.1"
+		"wrangler": "4.130.0"
 	},
 	"dependencies": {
 		"@mozilla/readability": "0.6.0",
